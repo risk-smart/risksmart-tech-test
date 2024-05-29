@@ -12,10 +12,12 @@ They are the UK’s premier provider of objective and authoritative geoscientifi
 
 BGS collects an processes a large amount of data from various sensors across the UK. Build a simple web application that presents the user with a list of Features of Interests. Each (well, most) Feature will have a list of observations associated with it. An observation is a piece of numerical data collected from one of the sensors located at the site. When a user selects a feature, display a dropdown list with all the sensors that have an observation for that features. When the user selects a sensor display the following observation details:
 
+- Number of data points
 - Min
 - Max
 - Mean
-- A plot of the results over time
+
+Note: not all sensors will have sufficient data, some might only have one entry point and the min, max and average will be the same. Don't worry. If you want you can also plot the results over time. Plotting _all_ data returned for a feature however yields a much more interesting graph.
 
 ![An example what the app might look like](Sample.png)
 
