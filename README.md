@@ -1,6 +1,6 @@
 # RiskSmart Tech Test
 
-Please do not fork this repo, submit your application (excluding dependencies) in Zip file.
+Please do not fork this repo, submit your application (excluding dependencies) in a Zip file.
 
 ## British Geological Survey Sensors Plotter
 
