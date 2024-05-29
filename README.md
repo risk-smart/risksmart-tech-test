@@ -25,7 +25,9 @@ Note: not all sensors will have sufficient data, some might only have one entry 
 
 The BGS API docs can be accessed at [https://sensors-docs.bgs.ac.uk/](https://sensors-docs.bgs.ac.uk/). This is a free and open API, you don't need to authenticate but be mindful that if you make too many requests you could get rate-limited.
 
-We use React and TypeScript at RiskSmart but that doesn't mean you have to. Use a language and framework that demonstrate your skills the best. We also don't expect you to build a fancy UI, keep it simple ([CloudScape Design System](https://cloudscape.design/) is great choice, it also does charts).
+We use React and TypeScript at RiskSmart but that doesn't mean you have to. Use a language and framework that demonstrate your skills the best. We also don't expect you to build a fancy UI, keep it simple (we use [CloudScape Design System](https://cloudscape.design/), it also does charts).
+
+For this test, we will be excluding all cloud and CI/CD aspects. We want you to show us what you're capable of, and we will not be marking the test against a set criteria. We want you to think, pivot, and be creative, just as we do every day.
 
 ### Considerations
 
