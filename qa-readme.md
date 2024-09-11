@@ -76,5 +76,3 @@ Automate the following scenarios on the website using Playwright.
   - Any additional documentation or comments explaining the candidate’s thought process.
 
 ---
-
-This test checks multiple aspects: automation scripting, interaction with web elements, assertions, and some optional aspects such as CI/CD integration for advanced candidates. Let me know if you'd like help with more details, or if you want to change anything!
